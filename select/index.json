@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "ペパーミント",
+  "base_artist": "マカロニえんぴつ",
+  "createdAt": "2026-03-01T12:44:30.888610Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "ペパーミント・ブルー",
+      "artist": "大滝詠一",
+      "has_synced": true,
+      "path": "select/01_ペパーミント・ブルー_大滝詠一.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ペパーミント",
+      "artist": "マカロニえんぴつ",
+      "has_synced": false,
+      "path": "select/pl_01_ペパーミント_マカロニえんぴつ.txt"
+    }
+  ]
+}
